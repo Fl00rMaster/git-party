@@ -1,4 +1,4 @@
 main()
 {
-  float volume *= .5f;
+  float volume -= volume * .6f;
 }
